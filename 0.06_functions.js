@@ -122,7 +122,7 @@ function monthlyBills(phones, food, gasoline, electricity) {
 
 	console.log(monthlyBills(100, 400, 240, 200));
 
-
+//***********************************************************
 function calculateShopping(costIndividualSoda, numberSoda, tax) {
 	
 	var totalCost = (costIndividualSoda * numberSoda) * tax
@@ -131,7 +131,7 @@ function calculateShopping(costIndividualSoda, numberSoda, tax) {
 }	
 
 console.log(calculateShopping(5, 10, 1.07));
-
+// *******************************************************************
 //their bronze
 
 function combineWords(wordOne, wordTwo){
@@ -147,4 +147,15 @@ function bills(rent, water,electric,trash,wireless) {
 	return totalBills;
 
 }
+
+//how to do if multiple people bills?
+
+// var paulBills = bills(400,30,30,10,30);
+// var jamesBills = bills
 console.log("Bills:", bills(600,30,30,10,30));
+
+//question about :
+//console.log("Bills:", bills(600,30,30,10,30)); Allows Bills: to show up in bottom answer line.
+
+//Their Gold
+
