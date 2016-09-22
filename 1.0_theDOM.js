@@ -12,7 +12,7 @@ function worstSong() {
 	document.getElementById("worst").innerHTML = "Don't stop believin";
 
 function bestSong() {
-	document.getElementById("best").innerHTML = "Best Song of All Time -Te";
+	document.getElementById("best").innerHTML = "Best Song of All Time -Ter";
 }
 
 bestSong();
