@@ -131,3 +131,20 @@ function calculateShopping(costIndividualSoda, numberSoda, tax) {
 }	
 
 console.log(calculateShopping(5, 10, 1.07));
+
+//their bronze
+
+function combineWords(wordOne, wordTwo){
+	return wordOne + wordTwo;
+
+}
+console.log(combineWords("Diet","Coke"));
+
+//Their Silver
+
+function bills(rent, water,electric,trash,wireless) {
+	var totalBills = rent + water + electric +trash + wireless;
+	return totalBills;
+
+}
+console.log("Bills:", bills(600,30,30,10,30));

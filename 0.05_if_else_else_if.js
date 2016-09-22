@@ -13,8 +13,8 @@ if(bankAccount > appleWatch) {
 
 //create a personAge then use if / else if / else to check if that person is eligible to vote
 
-var personAge = 17;
- var registeeredVote = false;
+// var personAge = 17;
+//  var registeeredVote = false;
 
 // if ((personAge >= votingAge) && (registeeredVote===true)){
 // 	console.log("you are eligible to vote");
